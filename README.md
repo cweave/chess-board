@@ -14,3 +14,5 @@ OXOXOXOX
 XOXOXOXO
 OXOXOXOX
 ```
+## Output
+[Visual Studio output for Modual 2 Chess Board](output.png)
